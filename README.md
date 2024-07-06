@@ -21,8 +21,8 @@ Feel free to modify and expand this script based on your learning needs and proj
 
 - ```git clone https://github.com/Enthernetcode/beagleForBeginners```
 - ```cd beagleForBeginners```
-- ```apt update && apt upgrade``|
-- ```python guide.py``` ###### To know a bit about the beagle
-- ```python start.py``` ###### To get started with the program
+- ```apt update && apt upgrade```
+- ```python guide.py```  To know a bit about the beagle
+- ```python start.py```  To get started with the program
 
 ## Thanks For Using
