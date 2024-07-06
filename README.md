@@ -16,3 +16,13 @@ For more detailed guides and community support, refer to:
 - [BeagleBoard.org Community Forums](https://forum.beagleboard.org/)
 
 Feel free to modify and expand this script based on your learning needs and project requirements.
+
+###  Setup
+
+- `git clone https://github.com/Enthernetcode/beagleForBeginners`
+- `cd beagleForBeginners`
+- `apt update && apt upgrade`
+- `python guide.py` ###### To know a bit about the beagle
+- `python start.py` ###### To get started with the program
+
+## Thanks For Using
